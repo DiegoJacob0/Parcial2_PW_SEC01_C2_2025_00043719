@@ -1,0 +1,23 @@
+{
+  "name": "parcial2_pw_sec01_c2_2025_00043719",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoJacob0/Parcial2_PW_SEC01_C2_2025_00043719.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoJacob0/Parcial2_PW_SEC01_C2_2025_00043719/issues"
+  },
+  "homepage": "https://github.com/DiegoJacob0/Parcial2_PW_SEC01_C2_2025_00043719#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
