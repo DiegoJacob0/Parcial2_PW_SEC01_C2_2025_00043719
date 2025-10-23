@@ -1,1 +1,3 @@
-# Parcial2_PW_SEC01_C2_2025_00043719
+Diego Armando Jacobo Cornejo
+00043719
+Seccion 01
